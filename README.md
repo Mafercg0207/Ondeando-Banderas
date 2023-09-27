@@ -7,9 +7,9 @@ Este repositorio contiene las siguientes carpetas:
 
 La solución a este problema sigue la dinámica del torneo internacional de física IPT, en el cual se resuelven problemas abiertos en física usando modelos teóricos, experimentos y simulaciones.
 
-El enunciado del problema es:
+La pregunta de investigación es:
 
-*Estudie las banderas (o cualquier trozo de tela y otros materiales de lámina) colgadas mientras está sometida a un viento uniforme. ¿En qué condiciones empieza a ondear y a emitir sonido? Construye el anemómetro más preciso basándote en el sonido del aleteo de la bandera.*
+*¿Es posible determinar la velocidad del viento sólo mediante el sonido de una bandera que ondea en ese viento?*
 
 Los integrantes del equipo son:
 * [Maria Fernanda Carvajal Guerrero](https://github.com/Mafercg0207)
